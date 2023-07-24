@@ -45,7 +45,7 @@ const VideoGenerator = () => {
 
   return (
     <div>
-      <Heading title="Video Generator &nbsp; Note: Generating Videos takes some time So please be patient" description="Generate High Quality Videos Using Splendid AI" icon={VideoIcon} iconColor="text-red-300" bgColor="bg-red-300/10" />
+      <Heading title="Video Generator &nbsp; Note: Generating Videos takes some time So please be patient (there is a high possibility that it may not even work we are trying really hard to fix it)" description="Generate High Quality Videos Using Splendid AI" icon={VideoIcon} iconColor="text-red-300" bgColor="bg-red-300/10" />
       <div className="px-4 lg:px-8">
         <div>
             <Form {...form}>
